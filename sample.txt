@@ -1,1 +1,2 @@
 さる先生のGit入門
+addをindexに追加
